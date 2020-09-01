@@ -9,7 +9,8 @@
 - 按不同up主 不同收藏夹进行目录整理，番剧第\d话格式转为Ep\d
 - 可选择下载后调用rclone上传并删除本地文件
 - b站弹幕转字幕文件，在支持的客户端上可以实现弹幕效果如emby
-    - emby播放效果![image.png](https://kyun.ltyuanfang.cn/tc/2020/09/01/04a1e232615fa.png)
+    - emby播放效果
+    ![image.png](https://kyun.ltyuanfang.cn/tc/2020/09/01/04a1e232615fa.png)
 ---
 > ## 使用过程
 ---    
