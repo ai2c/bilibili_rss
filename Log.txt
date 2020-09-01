@@ -1,0 +1,43 @@
+2020-09-01 21:39:23,892-[INFO]: rssBili start
+2020-09-01 21:39:23,901-[DEBUG]: pwd: /root/item/bilibili_rss
+2020-09-01 21:39:23,912-[INFO]: start update http://rss.uzibird.cn/bilibili/fav/3512360/926137760
+2020-09-01 21:39:23,913-[DEBUG]: mark.json not exists|http://rss.uzibird.cn/bilibili/fav/3512360/926137760
+2020-09-01 21:39:24,884-[DEBUG]: requests status_code: 200
+2020-09-01 21:39:24,908-[INFO]: feed_title: <乌兹鸟 的 bilibili 收藏夹 可以，很强。>
+2020-09-01 21:39:24,909-[INFO]: up主昵称: 乌兹鸟
+2020-09-01 21:39:24,909-[INFO]: 收藏夹: 可以，很强。
+2020-09-01 21:39:24,909-[DEBUG]: entries 数量: 1
+2020-09-01 21:39:24,910-[DEBUG]: rssKeys: dict_keys(['feed', 'entries', 'bozo', 'encoding', 'version', 'namespaces'])
+2020-09-01 21:39:24,910-[DEBUG]: itemKey: dict_keys(['title', 'title_detail', 'summary', 'summary_detail', 'published', 'published_parsed', 'id', 'guidislink', 'links', 'link', 'authors', 'author', 'author_detail'])
+2020-09-01 21:39:24,910-[INFO]: tasks length: 1
+2020-09-01 21:39:24,912-[INFO]: 【task 1】 title: 观看一分钟！全往厕所冲！  date: Mon, 30 Mar 2020 04:53:05 GMT
+2020-09-01 21:39:24,912-[INFO]:  poster: http://i0.hdslb.com/bfs/archive/baebfa7569a095e1be31ae6f36e44653d6ef1a68.jpg
+2020-09-01 21:39:24,912-[INFO]:  summary: BGM：AOA (에이오에이) - 짧은 치마 (短裙) (Korean Ver.)
+素材：裤袜视界  租赁女友  伪恋   SSSS.Gridman   群居姐妹   金色时光  狂赌之渊   七人魔法使   清恋  管家后宫学园  无彩限的怪灵世界  只要长得可爱,即使是变态你也喜欢吗  恶魔高校 绝对双刃   潜行吧！奈亚子  骇客娃娃  就算是哥只要有爱就没问题对吧 
+  游戏人生   肯普法  农林   机巧少女不会受伤   亲吻姐姐   FGO   迷茫管家与懦弱的我   MM一族  吸血鬼与<br><br><iframe src="https://player.bilibili.com/player.html?aid=285117401" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/baebfa7569a095e1be31ae6f36e44653d6ef1a68.jpg" referrerpolicy="no-referrer">
+2020-09-01 21:39:24,912-[INFO]:     link: https://www.bilibili.com/video/av285117401
+2020-09-01 21:39:24,913-[INFO]: 文件夹已存在 将删除目录下文件： ['poster.jpg', '观看一分钟！全往厕所冲！.xml', '观看一分钟！全往厕所冲！.mp4', '观看一分钟！全往厕所冲！.ass']
+2020-09-01 21:39:25,147-[INFO]: save poster success
+2020-09-01 21:39:35,150-[DEBUG]: annie result: /home/media/bili/乌兹鸟/可以，很强。/观看一分钟！全往厕所冲！/观看一分钟！全往厕所冲！.mp4
+2020-09-01 21:39:35,330-[INFO]: 下载完成：观看一分钟！全往厕所冲！.mp4 60.840MB | 6.082MB/s 
+2020-09-01 21:39:35,331-[DEBUG]: file_info: 👇
+file_path: /home/media/bili/乌兹鸟/可以，很强。/观看一分钟！全往厕所冲！/观看一分钟！全往厕所冲！.mp4 
+file_name: 观看一分钟！全往厕所冲！.mp4
+file_xml: /home/media/bili/乌兹鸟/可以，很强。/观看一分钟！全往厕所冲！/观看一分钟！全往厕所冲！.xml
+2020-09-01 21:39:36,917-[DEBUG]: danmaku_result: Succeed : /home/media/bili/乌兹鸟/可以，很强。/观看一分钟！全往厕所冲！/观看一分钟！全往厕所冲！.xml
+2020-09-01 21:39:36,918-[DEBUG]: rclone copy "/home/media/bili/乌兹鸟/可以，很强。/观看一分钟！全往厕所冲！/*" lty:"/bilibili/乌兹鸟/可以，很强。/观看一分钟！全往厕所冲！"
+2020-09-01 21:39:52,477-[DEBUG]: command result error list index out of range
+2020-09-01 21:39:52,478-[DEBUG]: rclone upload pass_time 15.560m result None
+2020-09-01 21:39:52,498-[INFO]: stop update http://rss.uzibird.cn/bilibili/fav/3512360/926137760
+2020-09-01 21:39:52,499-[INFO]: start update http://rss.uzibird.cn/bilibili/bangumi/media/1072
+2020-09-01 21:39:52,499-[DEBUG]: mark.json not exists|http://rss.uzibird.cn/bilibili/bangumi/media/1072
+2020-09-01 21:39:53,382-[DEBUG]: requests status_code: 200
+2020-09-01 21:39:53,431-[INFO]: feed_title: <狼与香辛料 第二季>
+2020-09-01 21:39:53,431-[INFO]: feed_title: <狼与香辛料 第二季>
+2020-09-01 21:39:53,431-[INFO]: Rss_title: 狼与香辛料 第二季
+2020-09-01 21:39:53,432-[DEBUG]: entries 数量: 13
+2020-09-01 21:39:53,432-[DEBUG]: rssKeys: dict_keys(['feed', 'entries', 'bozo', 'encoding', 'version', 'namespaces'])
+2020-09-01 21:39:53,432-[DEBUG]: itemKey: dict_keys(['title', 'title_detail', 'summary', 'summary_detail', 'id', 'guidislink', 'links', 'link'])
+2020-09-01 21:39:53,432-[INFO]: tasks length: 0
+2020-09-01 21:39:53,433-[INFO]: stop update http://rss.uzibird.cn/bilibili/bangumi/media/1072
+2020-09-01 21:39:53,433-[INFO]: rssBili stop
