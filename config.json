@@ -1,11 +1,10 @@
 {
     "rss":{
-        "http://rss.uzibird.cn/bilibili/fav/3512360/926137760":"/home/media/bili",
-        "http://rss.uzibird.cn/bilibili/bangumi/media/1072":"/home/media/television"
+        "rss_link":"default_save_path"
     },
     "rclone":{
-        "name":"lty",
-        "path":"/bilibili",
+        "name":"",
+        "path":"",
         "cmd":"copy"
     }
 }
